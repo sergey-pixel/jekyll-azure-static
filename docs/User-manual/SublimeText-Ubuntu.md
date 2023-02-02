@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Установка редактора Sublime Text на ПК с ОС Ubuntu
-parent: User-manual
+parent: Руководства пользователя
 nav_order: 1
 ---
 
