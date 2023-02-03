@@ -56,5 +56,5 @@ plugins:
 callouts_level: quiet
 callouts:
   important:
-    title: Important
+    title: Важно
     color: blue
