@@ -53,8 +53,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-callouts_level: quiet
-callouts:
-  important:
-    title: Важно
-    color: blue
+

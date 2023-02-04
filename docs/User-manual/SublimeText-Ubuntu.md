@@ -5,7 +5,7 @@ parent: Руководства пользователя
 nav_order: 1
 ---
 
-# Установка редактора Sublime Text на ПК с ОС Ubuntu
+# Установка Sublime Text на ПК с ОС Ubuntu
 {: .no_toc }
 С помощью инструкции вы сможете установить текстовый редактор Sublime Text 4 на ПК с операционной системой  Ubuntu 20.04 и выше, а также настроить ассоциацию расширений HTML-файлов с данной программой.
 
@@ -17,30 +17,24 @@ nav_order: 1
 1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели. 
 
    ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg)
-
 2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu Software).
 
    ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg)
-
 3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: middle;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
 
    ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg)
-
 5. Выберите приложение &laquo;sublime-text&raquo;.
 
    ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg)
-
- 6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
+6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
 
    ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg)
-
 7. Дождитесь установки приложения.   
 8. Зайдите в &laquo;Центр Приложений&raquo;. Вы увидите Sublime Text в списке установленных программ. 
 
 ### Установка из репозитория разработчика
-{: .important }
->Для выполнения всех команд требуются права администратора
+*Важно*. Для выполнения всех команд требуются права администратора.
 1. Чтобы запустить терминал, нажмите Ctrl+Alt+Del.
 2. Установите GPT-ключ:  
   `wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/sublimehq-archive.gpg > /dev/null` 
@@ -60,10 +54,8 @@ nav_order: 1
 1. В контекстном меню любого HTML-файла выберите &laquo;Свойства&raquo;.
 
    ![Файл](https://digit-dev.net/Images/Printscreen24.jpg)
-
 2. Перейдите на вкладку &laquo;Открыть с помощью&raquo;.
 
    ![Открыть с помощью](https://digit-dev.net/Images/Printscreen18.jpg)
-
 3. Выберите Sublime Text.
 4. Нажмите &laquo;Установить по умолчанию&raquo;.  
