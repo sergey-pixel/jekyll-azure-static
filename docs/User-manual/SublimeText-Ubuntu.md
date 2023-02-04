@@ -20,7 +20,7 @@ nav_order: 1
 2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu Software).
 
    ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg)
-3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: middle;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
+3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: bottom;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
 
    ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg)
@@ -30,13 +30,14 @@ nav_order: 1
 6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
 
    ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg)
-7. Дождитесь установки приложения.   
+7. Дождитесь установки приложения. 
 8. Зайдите в &laquo;Центр Приложений&raquo;. Вы увидите Sublime Text в списке установленных программ. 
 
 ### Установка из репозитория разработчика
-*Важно*. Для выполнения всех команд требуются права администратора.
+
+**Важно**. Для выполнения всех команд требуются права администратора.
 1. Чтобы запустить терминал, нажмите Ctrl+Alt+Del.
-2. Установите GPT-ключ:  
+2. Установите GPT-ключ: 
   `wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/sublimehq-archive.gpg > /dev/null` 
 3. Добавьте ссылку на репозиторий в каталог etc/apt/source.list.d:
   `echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list`
