@@ -47,7 +47,7 @@ nav_order: 1
   `sudo apt install sublime-text`
 6. Программа готова к работе.
 
-Вы можете запустить Sublime Text из &laquo;Цента Приложений&raquo;(Ubuntu Software) или, введя ее название в строке поиска. 
+Вы можете запустить Sublime Text из &laquo;Цента Приложений&raquo; (Ubuntu Software) или, введя ее название в строке поиска. 
 
 
 ### Настройка ассоциации HTML-файлов с Sublime Text
