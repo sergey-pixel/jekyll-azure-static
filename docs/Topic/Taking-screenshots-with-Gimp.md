@@ -24,7 +24,7 @@ nav_order: 1
 ### Создание снимка активного окна 
 1. В  меню &laquo;Файл&raquo; выберите пункт &laquo;Создать&raquo; &rarr; &laquo;Снимок экрана...&raquo;.
 2. В группе переключателей &laquo;Область&raquo; выберите значение &laquo;Снять только активное окно&raquo;.
-    ![Переключатель](https://digit-dev.net/Images/Printscreen3-8.jpg){ style="margin-top: 10px"}
+    ![Переключатель](https://digit-dev.net/Images/Printscreen3-8.jpg){ style="margin-top: 10px" }
 3. При необходимости установите флажки: 
    - &laquo;Включая обрамление окна&raquo;. Отображает заголовок окна на снимке экрана;
    - &laquo;Включить указатель мыши&raquo;. Отображает указатель мыши на снимке экрана.
