@@ -15,16 +15,16 @@ nav_order: 1
 ### Установка с помощью &laquo;Центра Приложений&raquo; (Ubuntu Software)
 
 1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели.
-   ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg){: style="margin-top: 10px"}
+   ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg)
 2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu Software).
-   ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg){: style="margin-top: 10px"}
+   ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg)
 3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: bottom;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
-   ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg){: style="margin-top: 10px"}
+   ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg)
 5. Выберите приложение &laquo;sublime-text&raquo;.
-   ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg){: style="margin-top: 10px"}
+   ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg)
 6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
-   ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg){: style="margin-top: 10px"}
+   ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg)
 7. Дождитесь установки приложения. 
 8. Зайдите в &laquo;Центр Приложений&raquo;. Вы увидите Sublime Text в списке установленных программ. 
 
