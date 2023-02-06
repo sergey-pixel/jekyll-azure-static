@@ -40,11 +40,12 @@ nav_order: 1
 5. Установите приложение:
   `sudo apt install sublime-text`
 6. Программа готова к работе.
+
 **Важно**. Для выполнения всех команд требуются права администратора.
 Вы можете запустить Sublime Text из &laquo;Цента Приложений&raquo; (Ubuntu Software) или, введя ее название в строке поиска. 
 
 
-### Настройка ассоциации HTML-файлов с Sublime Text
+## Настройка ассоциации HTML-файлов с Sublime Text
 {: .no_toc }
 1. В контекстном меню любого HTML-файла выберите &laquo;Свойства&raquo;.
     ![Файл](https://digit-dev.net/Images/Printscreen24.jpg){: style="margin-top: 10px"}
