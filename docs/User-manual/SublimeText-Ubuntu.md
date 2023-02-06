@@ -22,7 +22,7 @@ nav_order: 1
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
    ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg)
 5. Выберите приложение &laquo;sublime-text&raquo;.
-   ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg)
+   ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg){: style="margin-top: 10px"}
 6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
    ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg)
 7. Дождитесь установки приложения. 
