@@ -14,20 +14,16 @@ nav_order: 1
 {:toc}
 ### Установка с помощью &laquo;Центра Приложений&raquo; (Ubuntu Software)
 
-1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели. 
+1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели.
    ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg){: style="margin-top: 10px"}
 2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu Software).
-
    ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg){: style="margin-top: 10px"}
 3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: bottom;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
-
    ![Поиск приложения](https://digit-dev.net/Images/Printscreen20.jpg){: style="margin-top: 10px"}
 5. Выберите приложение &laquo;sublime-text&raquo;.
-
    ![Панель с приложения](https://digit-dev.net/Images/Printscreen21.jpg){: style="margin-top: 10px"}
 6. Нажмите кнопку &laquo;Установить&raquo;, введите пароль для учетной записи с правами администратора.
-
    ![Установка приложения](https://digit-dev.net/Images/Printscreen22.jpg){: style="margin-top: 10px"}
 7. Дождитесь установки приложения. 
 8. Зайдите в &laquo;Центр Приложений&raquo;. Вы увидите Sublime Text в списке установленных программ. 
@@ -52,10 +48,8 @@ nav_order: 1
 ### Настройка ассоциации HTML-файлов с Sublime Text
 {: .no_toc }
 1. В контекстном меню любого HTML-файла выберите &laquo;Свойства&raquo;.
-
    ![Файл](https://digit-dev.net/Images/Printscreen24.jpg){: style="margin-top: 10px"}
 2. Перейдите на вкладку &laquo;Открыть с помощью&raquo;.
-
    ![Открыть с помощью](https://digit-dev.net/Images/Printscreen18.jpg){: style="margin-top: 10px"}
 3. Выберите Sublime Text.
 4. Нажмите &laquo;Установить по умолчанию&raquo;.  
