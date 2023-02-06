@@ -16,7 +16,7 @@ nav_order: 1
 
 1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели.
     ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg){: style="margin-top: 10px"}
-2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu Software).
+2. Введите в строке поиска &laquo;Ubuntu&raquo;, а затем нажмите значок &laquo;Центра Приложений&raquo; (Ubuntu&nbsp;Software).
     ![Центр приложений](https://digit-dev.net/Images/Printscreen2-1.jpg){: style="margin-top: 10px"}
 3. Нажмите в верхнем меню &laquo;Центра Приложений&raquo; иконку <img  style="display: inline; vertical-align: bottom;" src="https://digit-dev.net/Images/Printscreen19-1.jpg">.
 4. Наберите &laquo;Sublime Text&raquo; в строке поиска.
@@ -41,7 +41,7 @@ nav_order: 1
   `sudo apt install sublime-text`
 6. Программа готова к работе.
 
-**Важно**. Для выполнения всех команд требуются права администратора.
+**Важно**. Для выполнения всех команд требуются права администратора.  
 Вы можете запустить Sublime Text из &laquo;Цента Приложений&raquo; (Ubuntu Software) или, введя ее название в строке поиска. 
 
 
