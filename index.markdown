@@ -17,7 +17,7 @@ permalink: /
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
  - CI\CD [GitHub Actions](https://github.com/features/actions).
 
-В разделах [Руководства пользователей](https://digit-dev.net/docs/User-manual/) и [Статьи](https://digit-dev.net/docs/Topic)
+В разделах [Руководства пользователей](https://digit-dev.net/docs/User-manual/) и [Статьи](https://digit-dev.net/docs/Topic)  
 опубликованы тестовые задания.
 
 
