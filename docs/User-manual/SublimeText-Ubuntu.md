@@ -12,7 +12,7 @@ nav_order: 1
 Варианты установки Sublime Text:
 * TOC
 {:toc}
-## Установка с помощью &laquo;Центра Приложений&raquo; (Ubuntu&ndsp;Software)
+## Установка с помощью &laquo;Центра Приложений&raquo; (Ubuntu&nbsp;Software)
 
 1. Нажмите значок &laquo;Показать приложения&raquo;. По умолчанию он находится внизу на левой боковой панели.
     ![Показать приложения](https://digit-dev.net/Images/Printscreen13.jpg){: style="margin-top: 10px"}

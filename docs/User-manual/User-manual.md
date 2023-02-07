@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Руководства пользователя
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /docs/User-manual
 ---

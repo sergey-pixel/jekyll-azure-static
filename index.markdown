@@ -12,10 +12,11 @@ permalink: /
  - язык разметки [Markdown](https://daringfireball.net/projects/markdown);
  - система контроля версий [git](https://git-scm.com);
  - хостинг исходного кода [GitHub](https://github.com);
- - генератор статических сайтов Jekyll;
+ - генератор статических сайтов [Jekyll](https://jekyllrb);
  - язык шаблонов [Liquid](https://shopify.github.io/liquid/);
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
- - CI\CD GitHub Actions.
+ - CI\CD [GitHub Actions](https://github.com/features/actions).
+В разделах [Руководства пользователей](https://gigit-dev.net/User-manual) и [Статьи](https://digit-dev.net/Topic) опубликованы тестовые задания.
 
 
 
