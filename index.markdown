@@ -16,7 +16,8 @@ permalink: /
  - язык шаблонов [Liquid](https://shopify.github.io/liquid/);
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
  - CI\CD [GitHub Actions](https://github.com/features/actions).
-В разделах [Руководства пользователей](https://gigit-dev.net/User-manual) и [Статьи](https://digit-dev.net/Topic) опубликованы тестовые задания.
+
+В разделах [Руководства пользователей](https://digit-dev.net/docs/User-manual/) и [Статьи](https://digit-dev.net/docs/Topic) опубликованы тестовые задания.
 
 
 
