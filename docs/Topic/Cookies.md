@@ -29,14 +29,13 @@ nav_order: 2
 
 ## Как удалить cookies в браузере Chromium на ОС Ubuntu
 1. Запустите браузер Chromium.
-    ![Chromium](https://digit-dev.net/Images/Printscreen1-4.jpg){: style="margin-top: 10px"}
-2. В правом верхнем углу нажмите на значок &laquo;Еще&raquo; <img  style="display: inline; vertical-align: middle;" src="https://digit-dev.net/Images/Pic.jpg"> . 
+2. В правом верхнем углу нажмите на значок &laquo;Еще&raquo;. 
     ![Настройка и управление](https://digit-dev.net/Images/Printscreen1-2.jpg){: style="margin-top: 10px"}
 3. Выберите &laquo;История&raquo; &rarr; &laquo;История&raquo;.
     ![История](https://digit-dev.net/Images/Printscreen1-5.jpg){: style="margin-top: 10px"}
 4. Нажмите пункт &laquo;Очистить историю&raquo;.
-    ![Очистить историю](https://digit-dev.net/Images/Printscreen1-6-1.jpg)
-5. Выберите значение в пункте &laquo;Временной диапазон&raquo;, за который необходимо удалить cookies.
+    ![Очистить историю](https://digit-dev.net/Images/Printscreen1-6-1.jpg){: style="margin-top: 10px"}
+5. Выберите значение в пункте &laquo;Временной диапазон&raquo;, за который необходимо удалить cookies.  
     ![Удалить данные](https://digit-dev.net/Images/Printscreen1-7-2.jpg){: style="margin-top: 10px"}
 6. Убедитесь, что выбран флажок &laquo;Файл cookies и другие данные сайтов&raquo;.
     ![Удалить данные](https://digit-dev.net/Images/Printscreen1-7-1.jpg){: style="margin-top: 10px"}
