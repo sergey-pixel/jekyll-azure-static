@@ -53,4 +53,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+search_enable: true
+search: 
+  heading_level: 2
+  previews: 2
+  previews_words_before: 3
+  previews_words_after: 3
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
