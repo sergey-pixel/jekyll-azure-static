@@ -12,7 +12,7 @@ permalink: /
  - язык разметки [Markdown](https://daringfireball.net/projects/markdown);
  - система контроля версий [git](https://git-scm.com);
  - хостинг исходного кода [GitHub](https://github.com);
- - генератор статических сайтов [Jekyll](https://jekyllrb);
+ - генератор статических сайтов [Jekyll](https://jekyllrb.com);
  - язык шаблонов [Liquid](https://shopify.github.io/liquid/);
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
  - CI\CD [GitHub Actions](https://github.com/features/actions).
