@@ -14,6 +14,7 @@ permalink: /
  - хостинг исходного кода [GitHub](https://github.com);
  - генератор статических сайтов [Jekyll](https://jekyllrb.com);
  - язык шаблонов [Liquid](https://shopify.github.io/liquid/);
+ - поиск реализован с помощью [Lunrjs](https://lunrjs.com);
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
  - CI\CD [GitHub Actions](https://github.com/features/actions).
 
