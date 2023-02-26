@@ -875,8 +875,8 @@ type Weather struct {
 }
 
 type Response struct {
-	Location Location `json:"location"`
-	Current Weather `json:"current"`
+  Location Location `json:"location"`
+  Current Weather `json:"current"`
 }
 
 func main() {
