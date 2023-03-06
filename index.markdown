@@ -22,6 +22,7 @@ The [Jamstack](https://jamstack.org) architecture.
  - [Руководства пользователей](https://www.digit-dev.net/docs/User-manual)
  - [Статьи](https://www.digit-dev.net/docs/Topic)
  - [API документация](https://www.gigit-dev.net/docs/API)
+
 опубликованы различные виды технических документов.
 
 
