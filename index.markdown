@@ -6,7 +6,7 @@ permalink: /
 ---
 # База знаний
 {: .fs-9 }
-Учебный проект.
+The [Jamstack](https://jamstack.org) architecture.
 {: .fs-6 .fw-300}
 Стек технологий:
  - язык разметки [Markdown](https://daringfireball.net/projects/markdown);
@@ -18,8 +18,9 @@ permalink: /
  - облачная платформа [Microsoft Azure](https://azure.microsoft.com);
  - CI/CD [GitHub Actions](https://github.com/features/actions).
 
-В разделах [Руководства пользователей](https://digit-dev.net/docs/User-manual/) и [Статьи](https://digit-dev.net/docs/Topic)  
-опубликованы тестовые задания.
+В разделах [Руководства пользователей](https://www.digit-dev.net/docs/User-manual) [Статьи](https://www.digit-dev.net/docs/Topic)  
+[API документация](https://www.gigit-dev.net/docs/API)
+опубликованы различные виды технических документов.
 
 
 
